@@ -64,7 +64,7 @@ Motor Correction
 
 ### Robot
 
-![High-Speed Line Follower V2](media/flf_photo.jpg)
+![High-Speed Line Follower V2](media/flf_photo.jpeg)
 
 ### Demo
 
